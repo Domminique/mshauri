@@ -1,0 +1,546 @@
+{
+    "name": "Dominic Imbuga",
+    "stock":"2000",
+    "phonenumber":"0715180530",
+    "profession":"Personal Chef",
+    "jobType":"Professional",
+    "email":"imbugad@gmail.com",
+    "price": 1500,
+    "image": "http://localhost:80/uploads/chefDI.jpg",
+    "imageLogo": "http://localhost:80/uploads/chefDI.jpg",
+    "colors": [
+        "green",
+        "orange"
+    ],
+    "company": "Dommy's Kitchen",
+    "featured": true,
+    "description": "Meal planning, shopping for ingredients, cooking, and cleaning up after the meals are made. Some personal chefs work in a client's home to cook a week's worth of meals, and are responsible for safe packaging, accurate labeling, and convenient storage of prepared items in their clients' refrigerator or freezer.",
+    "category": "Party and Catering",
+    "images": [
+        {
+            "id": "attub6EG88kJ7868",
+            "price": 2000,
+            "image": "http://localhost:80/uploads/chefDI.jpg",
+            "name": "Meal Planning ",
+            "description" :"I work in a client's home  creating a customized meal plans,  a week's worth of meals, and are responsible for safe packaging, accurate labeling, and convenient storage of prepared items in their clients' refrigerator or freezer. "        
+        },
+         {
+            "id": "attub6EG88k76Ys8",
+            "price": 7000,
+            "image": "http://localhost:80/uploads/chefDI.jpg",
+            "name": "Shopping for Ingredients",
+            "description" :"I have nutritional knowledge, as oftentimes a client needs to follow strict dietary guidelines or has food allergies when shopping for Ingredients then work in a client's home to cook a week's worth of meals, and are responsible for safe packaging, accurate labeling, and convenient storage of prepared items in their clients' refrigerator or freezer."        
+        },
+         {
+            "id": "attub6E0887hKuYs8",
+            "price": 7500,
+            "image": "http://localhost:80/uploads/chefDI.jpg",
+            "name": "Cooking",
+            "description" :"I work in a client's home to cook a week's worth of meals, and are responsible for safe packaging, accurate labeling, and convenient storage of prepared items in their clients' refrigerator or freezer. "        
+        },
+         {
+            "id": "attub6EG8jh8kJKuYs8",
+            "price": 4500,
+            "image": "http://localhost:80/uploads/chefDI.jpg",
+            "name": "Cleaning up after the meals",
+            "description" :"Cleaning up after the meals after work in a client's home to cook a week's worth of meals, and are responsible for safe packaging, accurate labeling, and convenient storage of prepared items in their clients' refrigerator or freezer. "        
+        },
+         {
+            "id": "attub6EG88kpkJKuYs8",
+            "price": 4000,
+            "image": "http://localhost:80/uploads/chefDI.jpg",
+            "name": "Manage a team of cooks",
+            "description" :"work in a client's home to cook a week's worth of meals, and are responsible for safe packaging, accurate labeling, and convenient storage of prepared items in their clients' refrigerator or freezer. "        
+        },
+        {
+            "id": "attub6EG88kpkJKuYs8",
+            "price": 4000,
+            "image": "http://localhost:80/uploads/chefDI.jpg",
+            "name": "Caterer",
+            "description" :"Together with hired assistants I prepare foods that will be served to guests at a dinner party. This could be for a formal sit down dinner, or for a buffet style event. "        
+        }
+         
+    ]
+}
+
+{
+    "name": "Imbuga Ahutu",
+    "stock":"2000",
+    "phonenumber":"0715180530",
+    "profession":"Software Developer",
+    "jobType":"Professional",
+    "email":"imbugad@gmail.com",
+    "price": 25000,
+    "image": "https://ongatarongaionline.co.ke/uploads/developerDI.jpg",
+    "imageLogo": "https://ongatarongaionline.co.ke/uploads/developerDI.jpg",
+    "colors": [
+        "green",
+        "orange"
+    ],
+    "company": "Savannaspace",
+    "featured": true,
+    "description": "Designing, developing and deploying  artificial intelligence, cloud and Mobile based application to power african startups, enabling them tap into cutting edge technologies to grow their businesses.",
+    "category": "Electronics & IT",
+    "images": [
+        {
+            "id": "attub6EG88kJ7868",
+            "price": 2000,
+            "image": "https://ongatarongaionline.co.ke/uploads/developerDI.jpg",
+            "name": "Mobile  ",
+            "description" :"Mobile apps are the next big thing ion Africa, I do designing, Developing and deploying  Artificial intelligence, cloud and Mobile based application to power african startups, enabling them tap into cutting edge technologies to grow their businesses "        
+        },
+         {
+            "id": "attub6EG88k76Ys8",
+            "price": 7000,
+            "image": "https://ongatarongaionline.co.ke/uploads/developerDI.jpg",
+            "name": "Cloud",
+            "description" :"Cloud is coming to every business, I help business get their fast by designing, Developing and deploying  Artificial intelligence, cloud and Mobile based application to power african startups, enabling them tap into cutting edge technologies to grow their businesses."        
+        },
+         {
+            "id": "attub6E0887hKuYs8",
+            "price": 7500,
+            "image": "https://ongatarongaionline.co.ke/uploads/developerDI.jpg",
+            "name": "AI",
+            "description" :"They say data is the next oil. Using AI I help clients make full use of their data, designing data driven products"        
+        },
+         {
+            "id": "attub6EG8jh8kJKuYs8",
+            "price": 4500,
+            "image": "https://ongatarongaionline.co.ke/uploads/developerDI.jpg",
+            "name": "Cleaning up after the meals",
+            "description" :"Cleaning up after the meals after work in a client's home to cook a week's worth of meals, and are responsible for safe packaging, accurate labeling, and convenient storage of prepared items in their clients' refrigerator or freezer. "        
+        },
+         {
+            "id": "attub6EG88kpkJKuYs8",
+            "price": 4000,
+            "image": "https://ongatarongaionline.co.ke/uploads/developerDI.jpg",
+            "name": "Growth Engineer",
+            "description" :"I help startups grow by designing compelling and scalable business ideas using the lated businesss models in the game"        
+        }
+         
+    ]
+}
+
+// teacherDI
+
+{
+    "name": "Teacher Dommy",
+    "stock":"2000",
+    "phonenumber":"0715180530",
+    "profession":"Guitar Instructor",
+    "jobType":"Professional",
+    "email":"imbugad@gmail.com",
+    "price": 25000,
+    "image": "https://ongatarongaionline.co.ke/uploads/teacherDI.jpg",
+    "imageLogo": "https://ongatarongaionline.co.ke/uploads/teacherDI.jpg",
+    "colors": [
+        "green",
+        "orange"
+    ],
+    "company": "Saskia Studios",
+    "featured": true,
+    "description": "Looking for someone to come to your home once a week for guitar lessons for you orson/daughters to start or continue to learn how to play. If you or someone you know would like to teach private guitar lessons once a week in our home, let us know. Looking for three separate lessons, 30 minutes a piece once a week.
+    Guitar lessons can be done succinct in one afternoon or space out during the week.",
+    "category": "Course & Training",
+    "images": [
+        {
+            "id": "attub6EG88kJ7868",
+            "price": 2000,
+            "image": "https://ongatarongaionline.co.ke/uploads/teacherDI.jpg",
+            "name": "Hands-on Music lessons",
+            "description" :"I'm Skilled at teaching  absolute beginners to practise guitar playing and become a musical composer. I have played in bands and solo, professionally and for fun. "        
+        },
+         {
+            "id": "attub6EG88k76Ys8",
+            "price": 7000,
+            "image": "https://ongatarongaionline.co.ke/uploads/teacherDI.jpg",
+            "name": "Tutoring children ",
+            "description" :"Looking for someone to come to your home once a week for guitar lessons for you orson/daughters to start or continue to learn how to play. If you or someone you know would like to teach private guitar lessons once a week in our home, let us know. Looking for three separate lessons, 30 minutes a piece once a week."        
+        },
+         {
+            "id": "attub6E0887hKuYs8",
+            "price": 7500,
+            "image": "https://ongatarongaionline.co.ke/uploads/teacherDI.jpg",
+            "name": "Tutoring  Adults",
+            "description" :"They say music heals the soul. Using remote classes I help adults clients make full use of their time, guitar lessons can be done succinct in one afternoon or space out during the week"        
+        }
+         
+    ]
+}
+
+
+// Lazuli foods
+
+{
+    "name": "Lazuli Foods",
+    "position":"Lazuli Food focuses on initiative that guarantee food security and nutrition to all Ongata Rongai Residents through value addition, production of Pepper, cereals . ",
+    "stock":"2000",
+    "profession":"",
+    "jobType":"Shop",
+    "phonenumber":"0715180530",
+    "price": 250,
+    "image": "https://ongatarongaionline.co.ke/uploads/catalogs/lazulihomehotchiily.png",
+    "imageLogo":"https://ongatarongaionline.co.ke/uploads/lazuli.jpg",
+    "colors": [
+        "green",
+        "orange"
+    ],
+    "company": "Lazuli Foods",
+    "featured": true,
+    "description": "Lazuli Food focuses on initiative that guaranteefood securuty and nutrition to all Ongata Rongai Residents through value addition, production of Pepper, cereals",
+    "category": "Food & Shopping",
+    "images": [
+        {
+            "id": "attub6EG88kJ7868",
+            "price": 200,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/lazulibeanstypeA.png",
+            "name": "Lazuli Sweet Beans ",
+            "description" :"Lazuli Sweet Beans guarantee food security and nutrition to all Ongata Rongai Residents through value addition "        
+        },
+         {
+            "id": "attub6EG88k76Ys8",
+            "price": 200,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/lazuligroundnuts.png",
+            "name": "Lazuli Groundnuts",
+            "description" :"Lazuli groundnuts is well sorted and guarantee food security and nutrition to all Ongata Rongai Residents through value addition "        
+        },
+         {
+            "id": "attub6E0887hKuYs8",
+            "price": 750,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/lazulihomehotchiily.png",
+            "name": "Lazuli Hot chilly",
+            "description" :"Lazuli Home hot chilly brings nutrition to all Ongata Rongai Residents through value addition "        
+        },
+         {
+            "id": "attub6EG8jh8kJKuYs8",
+            "price": 450,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/lazulihoney.png",
+            "name": "Lazuli Honey",
+            "description" :"Lazuli honey guarantees food security and nutrition to all Ongata Rongai Residents through value addition "        
+        },
+         {
+            "id": "attub6EG88kpkJKuYs8",
+            "price": 250,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/lazuliriceTypeA.png",
+            "name": "Lazuli Long Rice ",
+            "description" :"Lazuli Rice guarantees food security and nutrition to all Ongata Rongai Residents through value addition "        
+        },
+         {
+            "id": "attub6EG88kJKuYs8",
+            "price": 300,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/lazuliriceTypeB.png",
+            "name": "Lazuli Yellow Beans",
+            "description" :"Lazuli Yellow Beans Guarantees nutrition to all Ongata Rongai Residents through value addition "        
+        },
+         {
+            "id": "attub6EG88pu09kJKuYs8",
+            "price": 250,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/lazuliriceTypeC.png",
+            "name": "Lazuli Red Beans",
+            "description" :"Lazuli Red Beans brings food security and nutrition to all Ongata Rongai Residents through value addition "        
+        },
+         {
+            "id": "attub6EG88kJKuYs8",
+            "price": 180,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/lazuliriceTypeD.png",
+            "name": "Lazuli Green Peas",
+            "description" :"Lazuli Green Peas TypeD is packed with vitamins and guarantee food security and nutrition to all Ongata Rongai Residents through value addition "        
+        }
+        
+    ]
+}, 
+
+//Ubuntu Bakery
+{
+    "name": "Ubuntu Beakery",
+    "position":"At Ubuntu Beakery We pride ourselves on producing the highest quality baked goods, including breads, cakes, pastries, and cupcakes.We have world class culinary expertises to mix together ingredients to create unique and delicious items for our customers.",
+    "stock":"2000",
+    "profession":" ",
+    "jobType":"Shop",
+    "phonenumber":"0715180530",
+    "price": 1500,
+    "image": "https://ongatarongaionline.co.ke/uploads/catalogs/allenetpromotion.png",
+    "imageLogo": "https://ongatarongaionline.co.ke/uploads/catalogs/allenetlogo.png",
+    "colors": [
+        "green",
+        "orange"
+    ],
+    "company": "Ubuntu Beakery",
+    "featured": true,
+    "description": "At Ubuntu Beakery We pride ourselves on producing the highest quality baked goods, including breads, cakes, pastries, and cupcakes.We have world class culinary expertises to mix together ingredients to create unique and delicious items for our customers.",
+    "category": "Food & Shopping",
+    "images": [
+        {
+            "id": "attub6EG88kJ7868",
+            "price": 2000,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/allenetbirthdaycakeA.png",
+            "name": "Birthday Cake ",
+            "description" :"Allenet Birthday Cake comes hot in all size and delivered with 1 hour We have world class culinary expertises to mix together ingredients to create unique and delicious items for our customers "        
+        },
+         {
+            "id": "attub6EG88k76Ys8",
+            "price": 3500,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/allenetbirthdaycakeBwithcupcakes.png",
+            "name": "Cake & Cupcakes",
+            "description" :"We have world class culinary expertises to mix together ingredients to create unique and delicious  birth day cake with cupcakes  "        
+        },
+         {
+            "id": "attub6E0887hKuYs8",
+            "price": 750,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/allenetbirthdaycakeC.png",
+            "name": "Birthday - special",
+            "description" :"Allenet Birthday Cake comes hot in all size and delivered with 1 hour We have world class culinary expertises to mix together ingredients to create unique and delicious items for our customers"        
+        },
+         {
+            "id": "attub6EG8jh8kJKuYs8",
+            "price": 4500,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/allenetbirthdaycakeE.png",
+            "name": "Family Cake",
+            "description" :"World class culinary expertises to mix together ingredients to create unique and delicious items for our customers"        
+        },
+         {
+            "id": "attub6EG88kpkJKuYs8",
+            "price": 5000,
+            "image": "https://ongatarongaionline.co.ke/uploads/catalogs/allenetcorporatecake.png",
+            "name": "Corporate Cake",
+            "description" :"At Ubuntu Beakery We pride ourselves on producing the highest quality Corporate cake for all office parties, anniversary "        
+        }
+        
+    ]
+}
+
+
+// 'nail spa', 'hair salon', 'massage spa','barber shop'
+
+{
+    "name": "Haven Barber Shop",
+    "position":"At Haven Beaty clinic barber we help the clients that we see take care of their hair and facial hair. We typically work primarily with male clients, but may also work with women in some our shop. When our barbers meet with a client, they’ll start by helping them to decide on what they’d like to do with their hair. We may recommend specific haircuts or styles that we imagine will suit our client well.",
+    "stock":"2000",
+    "profession":" ",
+    "jobType":"Service",
+    "phonenumber":"0715180530",
+    "price": 1500,
+    "image": "https://ongatarongaionline.co.ke/uploads/barbershop2.jpeg",
+    "imageLogo": "https://ongatarongaionline.co.ke/uploads/havenlogo2.jpg",
+    "colors": [
+        "green",
+        "orange"
+    ],
+    "company": "Haven Beauty Clinic",
+    "featured": true,
+    "description": "At Haven Beaty clinic barber we help the clients that we see take care of their hair and facial hair. We typically work primarily with male clients, but may also work with women in some our shop. When our barbers meet with a client, they’ll start by helping them to decide on what they’d like to do with their hair. We may recommend specific haircuts or styles that we imagine will suit our client well.",
+    "category": "Health & Beauty",
+    "images": [
+        {
+            "id": "attub6EG88kpkJKuYs8",
+            "price": 500,
+            "image": "https://ongatarongaionline.co.ke/uploads/barbershop1.jpeg",
+            "name": "Shaving",
+            "description" :"At Haven Beaty clinic barber we help the clients that we see take care of their hair and facial hair "        
+        },
+         {
+            "id": "attub6E88kpkJKuYs8",
+            "price": 350,
+            "image": "https://ongatarongaionline.co.ke/uploads/barbershop2.jpeg",
+            "name": "Trimming and Shaping",
+            "description" :"At Haven Beaty clinic barber we help the clients that we see take care of their hair and facial hair   "        
+        },
+         {
+            "id": "attub69EG88kpkJKuYs8",
+            "price": 750,
+            "image": "https://ongatarongaionline.co.ke/uploads/barbershop3.jpeg",
+            "name": "Washing and Conditioning",
+            "description" :"At Haven Beaty clinic barber we help the clients that we see take care of their hair and facial hair "        
+        },
+         {
+            "id": "attub6EG88kp897kJKuYs8",
+            "price": 900,
+            "image": "https://ongatarongaionline.co.ke/uploads/barbershop6.png",
+            "name": "Treatments and Coloring",
+            "description" :"At Haven Beaty clinic barber we help the clients that we see take care of their hair and facial hair"        
+        }
+        
+        
+    ]
+}
+
+
+
+// ' 'massage spa',
+
+{
+    "name": "Haven Massage Spa",
+    "position":"Haven Massage Spa massage therapists have vast experience  treating muscular conditions, and helping to relieve muscle pain, stiffness, and tension in clients through hands-on manipulation.
+    While focusing on the muscles, performing various kinds of massages, including Kenyan massage and deep tissue massage.We help the clients with sore muscles or those looking to simply relax and unwind.",
+    "stock":"2000",
+    "profession":" ",
+    "jobType":"Service",
+    "phonenumber":"0715180530",
+    "price": 1500,
+    "image": "https://ongatarongaionline.co.ke/uploads/havenmassage.jpeg",
+    "imageLogo": "https://ongatarongaionline.co.ke/uploads/havenlogo2.jpg",
+    "colors": [
+        "green",
+        "orange"
+    ],
+    "company": "Haven Beauty Clinic",
+    "featured": true,
+    "description": "Haven Massage Spa massage therapists have vast experience  treating muscular conditions, and helping to relieve muscle pain, stiffness, and tension in clients through hands-on manipulation.
+    While focusing on the muscles, performing various kinds of massages, including Kenyan massage and deep tissue massage.We help the clients with sore muscles or those looking to simply relax and unwind..",
+    "category": "Health & Beauty",
+    "images": [
+        {
+            "id": "attub6EG88kpkJKuYs8",
+            "price": 5000,
+            "image": "https://ongatarongaionline.co.ke/uploads/havenmassage1.jpeg",
+            "name": "Body Treatments",
+            "description" :"Haven Massage Spa massage therapists will help you with sore muscles or those looking to simply relax and unwind "        
+        },
+         {
+            "id": "attub6E88kpkJKuYs8",
+            "price": 3500,
+            "image": "https://ongatarongaionline.co.ke/uploads/havenmassage.jpeg",
+            "name": "Massages",
+            "description" :"Haven Massage Spa massage therapists have vast experience  treating muscular conditions, and helping to relieve muscle pain, stiffness, and tension in clients through hands-on manipulation.
+            While focusing on the muscles, performing various kinds of massages "        
+        },
+         {
+            "id": "attub69EG88kpkJKuYs8",
+            "price": 7500,
+            "image": "https://ongatarongaionline.co.ke/uploads/massagespa.jpg",
+            "name": "Facials",
+            "description" :"We help the clients that we see take care of their facials.It's our job to provide high-quality therapeutic Facials massages "        
+        },
+         {
+            "id": "attub6EG88kp897kJKuYs8",
+            "price": 2300,
+            "image": "https://ongatarongaionline.co.ke/uploads/havenmassage2.jpeg",
+            "name": "Waxing ",
+            "description" :"At Haven Beaty clinic barber we help the clients that we see take care of their hair and facial hair"        
+        },
+        ,
+         {
+            "id": "attub6EG88kp897kJKuYs8",
+            "price": 4900,
+            "image": "https://ongatarongaionline.co.ke/uploads/havenmassage3.jpg",
+            "name": "Manicure/Pedicure",
+            "description" :"We typically work primarily with female clients, but may also work with men in some our shop. When our team meet with a client, they’ll start by helping them to decide on what they’d like to do with their hair. 
+            We may recommend specific manicure/pedicure or styles that we imagine will suit our client well"        
+        }
+        
+        
+    ]
+}
+
+
+// hair salon
+
+{
+    "name": "Haven Hair Salon",
+    "position":"Haven Massage Salon  Provides  quality customer services and maintain high standard of professionalism . Our duties include washing, coloring and cleaning hair, recommending and selling salon products and staying updated on ongoing hair styling trends.",
+    "stock":"2000",
+    "profession":" ",
+    "jobType":"Service",
+    "phonenumber":"0715180530",
+    "price": 1500,
+    "image": "https://ongatarongaionline.co.ke/uploads/havensalon1.jpeg",
+    "imageLogo": "https://ongatarongaionline.co.ke/uploads/havenlogo2.jpg",
+    "colors": [
+        "green",
+        "orange"
+    ],
+    "company": "Haven Beauty Clinic",
+    "featured": true,
+    "description": "Haven Massage Spa massage therapists have vast experience  treating muscular conditions, and helping to relieve muscle pain, stiffness, and tension in clients through hands-on manipulation.
+    While focusing on the muscles, performing various kinds of massages, including Kenyan massage and deep tissue massage.We help the clients with sore muscles or those looking to simply relax and unwind..",
+    "category": "Health & Beauty",
+    "images": [
+        {
+            "id": "attub6EG88kpkJKuYs8",
+            "price": 5000,
+            "image": "https://ongatarongaionline.co.ke/uploads/havensalon2.jpeg",
+            "name": "Consultation",
+            "description" :"Consulting clients on hair styling options, describing the benefits of different hair care products, persuading clients to buy our products  "        
+        },
+         {
+            "id": "attub6E88kpkJKuYs8",
+            "price": 3500,
+            "image": "https://ongatarongaionline.co.ke/uploads/hairsalon.png",
+            "name": "Shampooing",
+            "description" :"Perform hair treatments including conditioning, scalping and analyze facial features , recommend appropriate hair styles to customers.Perform hair shaping, curling, straightening, trimming, bleaching, dyeing and tinting services as requested "        
+        },
+         {
+            "id": "attub69EG88kpkJKuYs8",
+            "price": 7500,
+            "image": "https://ongatarongaionline.co.ke/uploads/havensalon3.jpeg",
+            "name": "Cutting",
+            "description" :"Analyze facial features and recommend appropriate hair styles to customers.Perform hair shaping, curling, straightening, trimming, bleaching, dyeing and tinting services as requested"        
+        },
+         {
+            "id": "attub6EG88kp897kJKuYs8",
+            "price": 2300,
+            "image": "https://ongatarongaionline.co.ke/uploads/havensalon4.jpeg",
+            "name": "Coloring and Styling ",
+            "description" :"Provide quality customer services and maintain high standard of professionalism while help the clients that we see take care of their hair ."        
+        },
+       
+        
+        
+    ]
+}
+
+
+// nail 
+
+{
+    "name": "Haven Nail Spa",
+    "position":"At Haven Nail Spa, after Discussing nail services and treatments with clients> We start by preparing the client's nails by removing old extensions or polish, cleaning and softening the cuticles, treating the skin around the nails and filing the edge.",
+    "stock":"2000",
+    "profession":" ",
+    "jobType":"Service",
+    "phonenumber":"0715180530",
+    "price": 1500,
+    "image": "https://ongatarongaionline.co.ke/uploads/nailspa1.jpg",
+    "imageLogo": "https://ongatarongaionline.co.ke/uploads/havenlogo2.jpg",
+    "colors": [
+        "green",
+        "orange"
+    ],
+    "company": "Haven Beauty Clinic",
+    "featured": true,
+    "description": "At Haven Nail Spa, after Discussing nail services and treatments with clients> We start by preparing the client's nails by removing old extensions or polish, cleaning and softening the cuticles, treating the skin around the nails and filing the edge.",
+    "category": "Health & Beauty",
+    "images": [
+        {
+            "id": "attub6EG88kpkJKuYs8",
+            "price": 5000,
+            "image": "https://ongatarongaionline.co.ke/uploads/nailspa1.jpeg",
+            "name": "Consultation",
+            "description" :"Consulting clients on nails styling options, describing the benefits of different nail care products, persuading clients to buy our products  "        
+        },
+         {
+            "id": "attub6E88kpkJKuYs8",
+            "price": 800,
+            "image": "https://ongatarongaionline.co.ke/uploads/nailspa.jpg",
+            "name": "Paint Fingernails and Toenails",
+            "description" :"Perform Paint Fingernails and Toenails"        
+        },
+         {
+            "id": "attub69EG88kpkJKuYs8",
+            "price": 1500,
+            "image": "https://ongatarongaionline.co.ke/uploads/nailspa2.jpg",
+            "name": "Clean, cut and shape nails",
+            "description" :"Analyze nails features and recommend appropriate nail styles to customers. Clean, cut and shape nails as requested"        
+        },
+         {
+            "id": "attub6EG88kp897kJKuYs8",
+            "price": 2300,
+            "image": "https://ongatarongaionline.co.ke/uploads/havennailspa.jpg",
+            "name": "Coloring and Styling ",
+            "description" :"Provide quality customer services and maintain high standard of professionalism while help the clients that we see take care of their hair ."        
+        },
+       
+        
+        
+    ]
+}
