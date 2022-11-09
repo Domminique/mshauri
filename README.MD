@@ -3,12 +3,15 @@
 
 ## Design & Process
 ### Brief description:  Mshauri - (Mshauri in swahili word from a mentor)
-mshauri is a customizable platform for all mentoring models that you need and provides the most affordable pricing in the market.
+mshauri is a multiplatform multilingual platform for all mentoring models that you need and provides the most affordable pricing in the market.
 
 
 ### List a few main features:
-
-
+Authentication & Authorization
+Add mentor
+Add mentee
+Add project manager
+Search mentors based on location , technology stack, langauge, country, 
 
  
 
@@ -119,7 +122,9 @@ Google Cloud load balancer product(s) for each service.
 ## 9. Diagramming your network
 ### diagram that depicts how your services will communicate over the network. Include regions, zones, load balancers, CDN, and DNS if applicable
 
-     # Newtwork Diagram here
+# Newtwork Diagram here
+
+
 
 ## 10. Designing reliable, scalable applications
 ### Even if some service is down, we want the web frontend of our application to be available nearly all the time. We also want the website to be fast with very low latency to users all over the world. On the next slide, draw a diagram that depicts how we can achieve this using Google Cloud services.
