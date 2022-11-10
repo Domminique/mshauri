@@ -68,14 +68,15 @@ const port = process.env.PORT || 80
 
 const start = async () => {
   try {
-    await connectDB(
-      'mongodb+srv://dommy:dommy2021@cluster0.wr5fv.mongodb.net/EmedAfricaShipA?retryWrites=true&w=majority'
-    )
+    // await connectDB(
+    //   'mongodb+srv://dommy:dommy2021@cluster0.wr5fv.mongodb.net/MshauriShipA?retryWrites=true&w=majority'
+    // )
     // ongata rongai online  // await connectDB(
     //   'mongodb+srv://dommy:dommy2021@cluster0.wr5fv.mongodb.net/oroShipA?retryWrites=true&w=majority'
     // )
-    // emedAfrica_GCP await connectDB('mongodb://localhost:27017/oroV18')
-    // emedAfrica_GCP await connectDB('mongodb://localhost:27017/blessedOne6')
+    // Mshauri_GCP await connectDB('mongodb://localhost:27017/oroV18')
+    // Mshauri_GCP await connectDB('mongodb://localhost:27017/blessedOne6')
+    await connectDB('mongodb://localhost:27017/Mshauri')
 
     app.listen(port, () => {
       console.log(`Server is listening on port ${port}...`)

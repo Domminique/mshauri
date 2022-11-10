@@ -20,7 +20,7 @@ const SmallSidebar = () => {
           </button>
           <header>
             {/* <Logo /> */}
-            <h4>emedafrica</h4>
+            <h4>Mshauri</h4>
           </header>
           <NavLinks toggleSidebar={toggleSidebar} />
         </div>

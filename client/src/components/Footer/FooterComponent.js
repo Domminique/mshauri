@@ -71,12 +71,11 @@ const Footer = () => {
 
         <SocialMedia>
           <SocialMediaWrap>
-            <p>EmedAfrica</p>
+            <p>Mshauri</p>
 
             <WebsiteRights>
               {' '}
-              EmedAfrica {new Date().getFullYear()} All rights
-              reserved
+              Mshauri {new Date().getFullYear()} All rights reserved
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink

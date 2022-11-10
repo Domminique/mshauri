@@ -98,7 +98,7 @@ const JobSchema = new mongoose.Schema(
     location: {},
     image: {
       type: String,
-      default: 'https://emedafrica.com/uploads/emedimage.png',
+      default: 'https://Mshauri.com/uploads/emedimage.png',
     },
     imageLogo: {
       type: String,

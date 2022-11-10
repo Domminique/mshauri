@@ -16,9 +16,9 @@ const BigSidebar = () => {
           <header>
             {/* <Logo /> */}
             <h4>
-            emed<span>Africa</span>
-          </h4>
-            {/* <h4>emedafrica</h4> */}
+              emed<span>Africa</span>
+            </h4>
+            {/* <h4>Mshauri</h4> */}
           </header>
           <NavLinks />
         </div>

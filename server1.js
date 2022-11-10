@@ -22,7 +22,7 @@ import connectDB from './db/connect.js'
 // routers
 import authRouter from './routes/authRoutes.js'
 import jobsRouter from './routes/jobsRoutes.js'
-//import jobsRouter from '../emedafrica_web/.next/server/pages'
+//import jobsRouter from '../Mshauri_web/.next/server/pages'
 
 // middleware
 import notFoundMiddleware from './middleware/not-found.js'
@@ -35,13 +35,13 @@ if (process.env.NODE_ENV !== 'production') {
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
-//only when ready to deploy C:\a_100Days_of_GADS\emedafrica_web\.next\server\pages\index.html
+//only when ready to deploy C:\a_100Days_of_GADS\Mshauri_web\.next\server\pages\index.html
 // only when ready to deploy
 // app.get('*', (req, res) => {
 //   res.sendFile(path.resolve(__dirname, './client/build', 'index.html'))
 // })
 //
-app.use(express.static(path.join(__dirname, '../emedafrica_web/.next/static')))
+app.use(express.static(path.join(__dirname, '../Mshauri_web/.next/static')))
 
 app.use(express.json())
 app.use(helmet())
@@ -67,7 +67,7 @@ const port = process.env.PORT || 80
 
 const start = async () => {
   try {
-    // emedAfrica_GCP await connectDB('mongodb+srv://dommy:dommy2021@cluster0.wr5fv.mongodb.net/EmedAfricaShipA?retryWrites=true&w=majority')
+    // Mshauri_GCP await connectDB('mongodb+srv://dommy:dommy2021@cluster0.wr5fv.mongodb.net/MshauriShipA?retryWrites=true&w=majority')
     // ongata rongai online await connectDB('mongodb+srv://dommy:dommy2021@cluster0.wr5fv.mongodb.net/oroShipA?retryWrites=true&w=majority')
     await connectDB('mongodb://localhost:27017/oroV12')
     //await connectDB('mongodb://localhost:27017/blessedOne')
