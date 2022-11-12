@@ -9,9 +9,13 @@ import {
 } from './pages/dashboard'
 //import HeroSection from './components/HeroSection'
 import InfoSection from './components/InfoSection'
-import { homeObjOne, homeObjTwo, homeObjThree } from './components/InfoSection/Data'
+import {
+  homeObjOne,
+  homeObjTwo,
+  homeObjThree,
+} from './components/InfoSection/Data'
 
-import { Footer, QandA } from './components';
+import { Footer, QandA } from './components'
 
 function App() {
   return (
@@ -35,7 +39,7 @@ function App() {
         {/* <Route path='/QandA' element={<QandA />} /> */}
         <Route path='*' element={<Error />} />
       </Routes>
-    
+
       <Footer />
     </BrowserRouter>
   )

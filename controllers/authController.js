@@ -4,7 +4,15 @@ import { BadRequestError, UnAuthenticatedError } from '../errors/index.js'
 
 const register = async (req, res) => {
   console.log(req.body)
-  const { name, email, password, phonenumber, language } = req.body
+  const {
+    name,
+    email,
+    password,
+    phonenumber,
+    language,
+    organisation,
+    country,
+  } = req.body
 
   if (!name || !email || !password || !phonenumber) {
     throw new BadRequestError('please provide all values')
@@ -25,6 +33,8 @@ const register = async (req, res) => {
     phonenumber,
     language,
     role,
+    organisation,
+    country,
   })
 
   const token = user.createJWT()
@@ -36,6 +46,8 @@ const register = async (req, res) => {
       location: user.location,
       language: user.language,
       name: user.name,
+      organisation: user.organisation,
+      country: user.organisation,
     },
     token,
     location: user.location,

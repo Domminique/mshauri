@@ -148,7 +148,7 @@
               ';\n\n  @media screen and (max-width: 480px) {\n    font-size: 32px;\n  }\n',
             ])),
           function (e) {
-            return e.lightText ? '#f7f8fa' : '#010606'
+            return e.lightText ? '#236de6' : '#010606'
           }
         ),
         le = V.a.p(
